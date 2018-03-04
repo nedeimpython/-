@@ -1,0 +1,16 @@
+F:\Интегралы тест\Интегралы тест\bin\Debug\Интегралы тест.exe.config
+F:\Интегралы тест\Интегралы тест\bin\Debug\Интегралы тест.exe
+F:\Интегралы тест\Интегралы тест\bin\Debug\Интегралы тест.pdb
+F:\Интегралы тест\Интегралы тест\obj\Debug\Интегралы тест.csprojResolveAssemblyReference.cache
+F:\Интегралы тест\Интегралы тест\obj\Debug\MainWindow.g.cs
+F:\Интегралы тест\Интегралы тест\obj\Debug\App.g.cs
+F:\Интегралы тест\Интегралы тест\obj\Debug\Интегралы тест_MarkupCompile.cache
+F:\Интегралы тест\Интегралы тест\obj\Debug\Интегралы тест_MarkupCompile.lref
+F:\Интегралы тест\Интегралы тест\obj\Debug\MainWindow.baml
+F:\Интегралы тест\Интегралы тест\obj\Debug\Интегралы тест.g.resources
+F:\Интегралы тест\Интегралы тест\obj\Debug\Интегралы_тест.Properties.Resources.resources
+F:\Интегралы тест\Интегралы тест\obj\Debug\Интегралы тест.csproj.GenerateResource.Cache
+F:\Интегралы тест\Интегралы тест\obj\Debug\Интегралы тест.exe
+F:\Интегралы тест\Интегралы тест\obj\Debug\Интегралы тест.pdb
+F:\Интегралы тест\Интегралы тест\obj\Debug\Simple Styles.baml
+F:\Интегралы тест\Интегралы тест\obj\Debug\App.baml
